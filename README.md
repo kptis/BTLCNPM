@@ -1,3 +1,8 @@
+# BTL CNPM 
+Build E-commerce Website using MERn Stack
+Reference: https://github.com/basir/amazona
+Link tutorial: https://youtu.be/TRCDsB9i3bI
+
 ## Run Locally
 
 ### 1. cd
